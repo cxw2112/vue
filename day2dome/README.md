@@ -11,4 +11,4 @@ npm install
 # serve with hot reload at localhost:8080
 npm run dev
 
-![](https://github.com/cxw2112/vue/raw/master/day2dome/1.png) 
+![img](https://github.com/cxw2112/vue/raw/master/day2dome/1.png) 
